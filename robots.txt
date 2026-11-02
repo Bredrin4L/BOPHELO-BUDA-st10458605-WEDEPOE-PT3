@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bredrin4l.github.io/BOPHELO-BUDA-st10458605-WEDEPOE-PART3/sitemap.xml
